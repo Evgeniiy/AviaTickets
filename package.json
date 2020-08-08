@@ -1,0 +1,32 @@
+{
+    "name": "avia-tickets",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.10.5",
+        "@babel/preset-env": "^7.10.4",
+        "autoprefixer": "^9.8.5",
+        "babel": "^6.23.0",
+        "babel-core": "^6.26.3",
+        "babel-loader": "^8.1.0",
+        "browser-sync": "^2.26.10",
+        "core-js": "^3.6.5",
+        "gulp": "^4.0.2",
+        "gulp-clean-css": "^4.3.0",
+        "gulp-postcss": "^8.0.0",
+        "gulp-sass": "^4.1.0",
+        "webpack": "^4.43.0",
+        "webpack-stream": "^5.2.1"
+    },
+    "dependencies": {
+        "axios": "^0.19.2",
+        "date-fns": "^2.15.0",
+        "materialize-css": "^1.0.0-rc.2"
+    }
+}
